@@ -49,4 +49,16 @@ __How to build or run the application__
 
 6. Wait for the app to build and deploy to the selected device or emulator.
 
+
+
+Trending-Github-Repos demo video
+
+
+https://user-images.githubusercontent.com/48353831/226199963-516e8ffd-7006-44cb-b780-54fb56eeee8e.mp4
+
+
+
+
+
+
 Developer by Andrew Mutunga - druapps@gmail.com

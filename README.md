@@ -51,7 +51,7 @@ __How to build or run the application__
 
 
 
-Trending-Github-Repos demo video
+__Trending-Github-Repos demo video__
 
 
 https://user-images.githubusercontent.com/48353831/226199963-516e8ffd-7006-44cb-b780-54fb56eeee8e.mp4
